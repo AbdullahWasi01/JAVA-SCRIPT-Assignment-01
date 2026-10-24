@@ -1,2 +1,21 @@
-# JAVA-SCRIPT-Assignment-01
-My first JavaScript assignment: variables, arithmetic, and document.write() through small programs like a multiplication table and temperature converter.
+# JavaScript Assignment 1
+
+My first JavaScript assignment as a Full Stack Development student. Small programs that practice variables, arithmetic, and displaying output in the browser.
+
+## Programs
+
+- Multiplication table
+- Temperature converter (Celsius ↔ Fahrenheit)
+- Shopping cart total
+- Percentage calculator
+- Arithmetic in a single expression
+- Circle circumference and area
+- Lifetime supply calculator
+
+## What I practiced
+
+- Variables with `var`
+- Arithmetic operators and parentheses
+- String concatenation
+- `for` loops
+- `document.write()`
